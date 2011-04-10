@@ -1,0 +1,5 @@
+NGon Display Control - WPF
+
+Arranges UIElements around a three-dimensional NGon to allow for rotational transition type effects. Allows arrangement horizontally or vertically, allows rotation in terms of next/previous as well as jumping to arbitrary faces, allows control of zoom and rotation animation times.
+
+Wrote this about 4-5 years ago when I was starting to play around with WPF. Never used it for anything, thought I would throw it up in case anyone had a use for such a thing. Certainly not production quality code at this point, a number of issues are noted with BUGBUG comments and it hasn't been thoroughly tested or profiled, I am sure it could be made smarter/more efficient :)
